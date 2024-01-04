@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 yuriportfolio/AI-based-description-generator-SaaS-in-Next.js-FastAPI-Openai-TailwindCSS-and-AWS-Lambda is built on the following main stack:
+
 - [Chartio](https://chartio.com) – Business Intelligence
 - [Coveralls](https://coveralls.io/) – Code Coverage
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
@@ -53,11 +54,13 @@ yuriportfolio/AI-based-description-generator-SaaS-in-Next.js-FastAPI-Openai-Tail
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 yuriportfolio/AI-based-description-generator-SaaS-in-Next.js-FastAPI-Openai-TailwindCSS-and-AWS-Lambda is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png' alt='Chartio'/> [Chartio](https://chartio.com) – Business Intelligence
 - <img width='25' height='25' src='https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png' alt='Coveralls'/> [Coveralls](https://coveralls.io/) – Code Coverage
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
@@ -109,14 +112,15 @@ yuriportfolio/AI-based-description-generator-SaaS-in-Next.js-FastAPI-Openai-Tail
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [yuriportfolio/AI-based-description-generator-SaaS-in-Next.js-FastAPI-Openai-TailwindCSS-and-AWS-Lambda](https://github.com/yuriportfolio/AI-based-description-generator-SaaS-in-Next.js-FastAPI-Openai-TailwindCSS-and-AWS-Lambda)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|235<br/>Tools used|11/09/23 <br/>Report generated|
+|236<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -636,9 +640,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (176)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (177)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (174)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (175)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -797,6 +801,7 @@ Full tech stack [here](/techstack.md)
 |[tape](https://www.npmjs.com/tape)|v4.6.0|12/31/22|Takács Bálint |MIT|N/A|
 |[tar](https://www.npmjs.com/tar)|N/A|12/31/22|Takács Bálint |ISC|N/A|
 |[temp](https://www.npmjs.com/temp)|N/A|12/31/22|Takács Bálint |MIT|N/A|
+|[test](https://www.npmjs.com/test)|N/A|12/31/22|Takács Bálint |MIT|N/A|
 |[three](https://www.npmjs.com/three)|v0.148.0|01/08/23|Takács Bálint |MIT|N/A|
 |[tmp](https://www.npmjs.com/tmp)|v0.2.1|12/31/22|Takács Bálint |MIT|N/A|
 |[touch](https://www.npmjs.com/touch)|N/A|12/31/22|Takács Bálint |ISC|N/A|
@@ -822,10 +827,10 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[pydantic](https://pypi.org/pydantic)|N/A|12/31/22|Takács Bálint |MIT|N/A|
-|[python-dotenv](https://pypi.org/python-dotenv)|N/A|12/31/22|Takács Bálint |BSD-3-Clause|N/A|
+|[pydantic](https://pypi.org/project/pydantic)|N/A|12/31/22|Takács Bálint |MIT|N/A|
+|[python-dotenv](https://pypi.org/project/python-dotenv)|N/A|12/31/22|Takács Bálint |BSD-3-Clause|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
