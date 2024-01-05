@@ -120,7 +120,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [yuriportfolio/AI-based-description-generator-SaaS-in-Next.js-FastAPI-Openai-TailwindCSS-and-AWS-Lambda](https://github.com/yuriportfolio/AI-based-description-generator-SaaS-in-Next.js-FastAPI-Openai-TailwindCSS-and-AWS-Lambda)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|236<br/>Tools used|01/04/24 <br/>Report generated|
+|236<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
